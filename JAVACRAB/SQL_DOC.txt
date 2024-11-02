@@ -1,6 +1,0 @@
-CREATE TABLE email1 (
-  EMAIL VARCHAR2(30) NOT NULL
-);
-
-
-//insert some data here
