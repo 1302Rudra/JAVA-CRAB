@@ -2,7 +2,6 @@
 This open-source project aims to support beginners who are just starting their journey with Java by providing high-quality resources and the latest updates. The project includes the implementation of the SMTP protocol to enhance functionality, making it a comprehensive learning tool for new Java enthusiasts.
 
 
- <hr style="background-color: #333;>
 Main Page
 ![Screenshot 2024-11-02 183511](https://github.com/user-attachments/assets/e822893e-74f3-4adc-807e-c9a2947a2ce5)
 
