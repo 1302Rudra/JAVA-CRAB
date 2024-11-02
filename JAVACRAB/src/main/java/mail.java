@@ -46,8 +46,8 @@ public class mail
 		   
 		    String username = "rudrarakesh1302@gmail.com";
 		    
-		    
-		    String password = "yduz etlf tycp fevn";
+		    //generate your own password from the gmail service cause this code is suitable for that service
+		    String password;
 
 		    
 		    Session session = Session.getInstance(props, new Authenticator() 
