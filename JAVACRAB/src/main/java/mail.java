@@ -43,8 +43,10 @@ public class mail
 		    props.put("mail.smtp.auth", "true");
 		    props.put("mail.smtp.starttls.enable", "true");
 
-		   
-		    String username = "rudrarakesh1302@gmail.com";
+
+
+		// ************* use your own email address here this code is suitable for the gmail service only *************//
+		    String username;
 		    
 		    //generate your own password from the gmail service cause this code is suitable for that service
 		    String password;
